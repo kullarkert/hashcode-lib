@@ -1,5 +1,5 @@
 {
-  "name": "hashcode-lib",
+  "name": "kullar84/hashcode-lib",
   "description": "hashcode library for digisigning",
   "keywords": ["digidoc", "smartcard","digidocservice","digisign","signing"],
   "minimum-stability": "stable",
