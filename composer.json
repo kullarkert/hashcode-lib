@@ -13,5 +13,6 @@
     "psr-0": {
       "SK\\Digidoc\\": "hashcode-lib/src"
     }
-  }
+  },
+  "target-dir": "kullar84/hashcode-lib"
 }
